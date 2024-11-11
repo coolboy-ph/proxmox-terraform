@@ -54,11 +54,12 @@
     
     Create API token for terraform user
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7b1f8853-a408-4340-895e-876746db54b4/ddbec24f-c42c-4c58-b547-90a98648f061/image.png)
+    ![image](https://github.com/user-attachments/assets/e5b66693-2140-4b08-98d0-1bf23e5443cb)
+
     
     Copy the Token ID and Secret
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7b1f8853-a408-4340-895e-876746db54b4/e927ad15-f329-478e-a511-f7a353a725c6/image.png)
+    ![image](https://github.com/user-attachments/assets/298e956f-e364-4ac8-b0a4-318fae6b68f2)
     
     - Terraform code
         - main.tf
