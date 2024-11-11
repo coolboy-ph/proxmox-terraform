@@ -62,7 +62,7 @@
     ![image](https://github.com/user-attachments/assets/298e956f-e364-4ac8-b0a4-318fae6b68f2)
     
                 
-    - Run terraform commands
+    Run terraform commands
         
         ```bash
         terraform init
