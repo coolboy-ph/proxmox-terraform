@@ -64,8 +64,8 @@
                 
     Run terraform commands
         
-        ```bash
-        terraform init
-        terraform plan --auto-approve
-        terraform apply --auto-approve
-        ```
+    ```bash
+    terraform init
+    terraform plan --auto-approve
+    terraform apply --auto-approve
+    ```
