@@ -64,7 +64,7 @@
     - Terraform code
         - main.tf
             
-            ```json
+            
             variable "cloudinit_template_name" {
                 type = string 
             }
@@ -122,11 +122,11 @@
               ${var.ssh_key}
               EOF
             }
-            ```
+            
             
         - provider.tf
             
-            ```json
+            
             variable "pm_api_url" {
               type = string
             }
@@ -156,18 +156,18 @@
               pm_tls_insecure = true
             }
             
-            ```
+            
             
         - terraform.tfvars
             
-            ```json
+            
             pm_api_url = "https://<proxmox-ip>:8006/api2/json"
             cloudinit_template_name = "ubuntu-focal-cloudinit-template"
             proxmox_node = "<proxmox-node-name>"
             pm_api_token_id = "<token_id>"
             pm_api_token_secret = "<token_secret>"
             ssh_key = "ssh-rsa ..."
-            ```
+            
             
     - Run terraform commands
         
